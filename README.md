@@ -2,9 +2,9 @@
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently learning Spring Boot Framework
 - Email: yucelenn@hotmail.com
-- linkedin.com/in/yucelenn/
-- hackerrank.com/yucelenn
-- gelecegiyazanlar.turkcell.com.tr/kisi/yucelenn
+- https://www.linkedin.com/in/yucelenn/
+- https://www.hackerrank.com/yucelenn
+- https://www.gelecegiyazanlar.turkcell.com.tr/kisi/yucelenn
 
 <!---
 yucelenn/yucelenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
