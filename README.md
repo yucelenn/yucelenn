@@ -4,7 +4,7 @@
 - Email: yucelenn@hotmail.com
 - https://www.linkedin.com/in/yucelenn/
 - https://www.hackerrank.com/yucelenn
-- https://www.gelecegiyazanlar.turkcell.com.tr/kisi/yucelenn
+- https://gelecegiyazanlar.turkcell.com.tr/kisi/yucelenn
 
 <!---
 yucelenn/yucelenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
