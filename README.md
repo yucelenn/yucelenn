@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yucelenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yucelenn" height="60" width="80" /></a>
 <a href="https://instagram.com/yucelenustun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yucelenustun" height="60" width="80" /></a>
-<a href="https://medium.com/@yucelenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yucelenn" height="60" width="80" /></a>
+<a href="https://medium.com/@yucelennn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yucelenn" height="60" width="80" /></a>
 <a href="https://www.hackerrank.com/yucelenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yucelenn" height="60" width="80" /></a>
 </p>
 
