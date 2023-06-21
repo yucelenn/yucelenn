@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Back-End Developer</h3>
 
 
-- 🌱 I’m currently learning : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25" width="70"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" height="25" width="70">
+- 🌱 I’m currently learning : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="21" width="60"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" height="21" width="60">
 
 - 👨‍💻 All of my projects are available at [https://github.com/yucelenn?tab=repositories](https://github.com/yucelenn?tab=repositories)
 
