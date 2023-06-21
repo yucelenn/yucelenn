@@ -2,10 +2,11 @@
 <h3 align="center">I'm a Back-End Developer</h3>
 
 
-- 👨‍💻 I generally use : <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="18" width="40">
+- 👋 I graduated from Süleyman Demirel University/Computer Engineering with 3,03 gpa.
+- 👨‍💻 For developing projects i generally use : <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="18" width="40">
 - 🌱 I’m currently learning : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="21" width="70"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" height="21" width="100">
 
-- 👨‍💻 All of my projects are available at [https://github.com/yucelenn?tab=repositories](https://github.com/yucelenn?tab=repositories)
+- 👀 All of my projects are available at [here](https://github.com/yucelenn?tab=repositories)
 
 - 📫 How to reach me **yucelenn@hotmail.com**
 
